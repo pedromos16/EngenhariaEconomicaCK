@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+C:\Users\pedro\IdeaProjects\PetShopsDTI\src\PetShop.java,PetShop,validarData/1[java.lang.String],data,2
+C:\Users\pedro\IdeaProjects\PetShopsDTI\src\PetShop.java,PetShop,"PetShop/3[java.lang.String,int,int]",quantidadeCaesPequenos,3
+C:\Users\pedro\IdeaProjects\PetShopsDTI\src\PetShop.java,PetShop,"PetShop/3[java.lang.String,int,int]",data,3
+C:\Users\pedro\IdeaProjects\PetShopsDTI\src\PetShop.java,PetShop,"PetShop/3[java.lang.String,int,int]",quantidadeCaesGrandes,3
+C:\Users\pedro\IdeaProjects\PetShopsDTI\src\PetShop.java,PetShop,getName/0,name,1
+C:\Users\pedro\IdeaProjects\PetShopsDTI\src\PetShop.java,PetShop,getDistancia/0,distancia,1
